@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/cosmos/cosmos-sdk v0.46.0
 	github.com/cosmos/relayer/v2 v2.0.0
-	github.com/docker/docker v20.10.17+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/moby/moby v20.10.17+incompatible
 	github.com/strangelove-ventures/ibctest v0.0.0-20220809152134-4bd6b88f8572
 	github.com/stretchr/testify v1.8.0
